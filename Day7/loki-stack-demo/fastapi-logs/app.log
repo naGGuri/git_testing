@@ -1,0 +1,18 @@
+2025-04-01 07:03:56,266 - fastapi-app - INFO - Request started: GET /uuid
+2025-04-01 07:03:56,269 - fastapi-app - INFO - 생성된 UUID: 5eeae853-095d-47ca-8511-809f92400a6b
+2025-04-01 07:03:56,272 - fastapi-app - INFO - Request completed: GET /uuid - Took: 0.0062s
+2025-04-01 07:05:22,328 - fastapi-app - INFO - Request started: POST /length
+2025-04-01 07:05:22,331 - fastapi-app - INFO - 입력된 텍스트 : kakao-cloud, 글자 수 : 11
+2025-04-01 07:05:22,331 - fastapi-app - INFO - Request completed: POST /length - Took: 0.0028s
+2025-04-01 07:06:10,100 - fastapi-app - INFO - Request started: GET /uuid
+2025-04-01 07:06:10,103 - fastapi-app - INFO - 생성된 UUID: d958dfa4-90e2-46cc-b6de-579c1b4f0b4b
+2025-04-01 07:06:10,107 - fastapi-app - INFO - Request completed: GET /uuid - Took: 0.0068s
+2025-04-01 07:06:14,570 - fastapi-app - INFO - Request started: GET /time
+2025-04-01 07:06:14,570 - fastapi-app - INFO - 현재 서버 시간 : 2025-04-01T07:06:14.570723
+2025-04-01 07:06:14,571 - fastapi-app - INFO - Request completed: GET /time - Took: 0.0014s
+2025-04-01 07:07:07,117 - fastapi-app - INFO - Request started: GET /error
+2025-04-01 07:07:07,119 - fastapi-app - ERROR - Error endpoint called - Generating sample error
+2025-04-01 07:07:07,121 - fastapi-app - INFO - Request completed: GET /error - Took: 0.0046s
+2025-04-01 07:07:10,311 - fastapi-app - INFO - Request started: GET /health
+2025-04-01 07:07:10,312 - fastapi-app - INFO - Health check endpoint called
+2025-04-01 07:07:10,312 - fastapi-app - INFO - Request completed: GET /health - Took: 0.0013s
